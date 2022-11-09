@@ -9,4 +9,5 @@ module "s3_bucket" {
     enabled = true
   }
 
+  version = "2.8.0"
 }
